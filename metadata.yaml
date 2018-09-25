@@ -1,0 +1,27 @@
+_repo: The-Ramayana-Volume-Two_57826
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Dutt, Manmatha Nath
+    gutenberg_agent_id: '49280'
+    url: http://www.gutenberg.org/2009/agents/49280
+creator:
+  author:
+    agent_name: Valmiki
+    alias: Válmíki
+    gutenberg_agent_id: '7984'
+    url: http://www.gutenberg.org/2009/agents/7984
+    wikipedia: http://en.wikipedia.org/wiki/Valmiki
+description: ''
+gutenberg_issued: '2018-08-31'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57826'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The Rāmāyana Volume Two
+url: http://www.gutenberg.org/ebooks/57826
